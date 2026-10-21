@@ -11,8 +11,8 @@
       "glyph": "warning",
       "label": "Discover fictional endpoints",
       "role": "path",
-      "x": 0.5,
-      "y": 0.14
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
@@ -20,23 +20,23 @@
       "label": "Public certificate metadata",
       "role": "path",
       "x": 0.5,
-      "y": 0.284
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "card",
       "label": "Detect upcoming expiration",
       "role": "sense",
-      "x": 0.5,
-      "y": 0.428
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "plate",
       "label": "Authorize deployment of replacement",
       "role": "structure",
-      "x": 0.5,
-      "y": 0.572
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n5",
@@ -44,15 +44,15 @@
       "label": "Service",
       "role": "structure",
       "x": 0.5,
-      "y": 0.716
+      "y": 0.7
     },
     {
       "id": "n6",
       "glyph": "audit",
       "label": "Audit",
       "role": "sense",
-      "x": 0.5,
-      "y": 0.86
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
